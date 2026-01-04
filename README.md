@@ -5,6 +5,9 @@ This project focuses on human image segmentation using deep learning techniques.
 ## Dataset
 
 The Human Segmentation Dataset used in this project consists of high-resolution images containing humans along with their corresponding binary segmentation masks. The dataset includes images labeled with 1 for the human region and 0 for the background.
+![13](https://github.com/user-attachments/assets/1c9e41bb-3f5a-48f3-b124-528522229493)
+
+<img width="277" height="182" alt="13" src="https://github.com/user-attachments/assets/a462fe87-48fc-417b-b0dd-07978800ffef" />
 
 ## Model Architecture
 
@@ -43,3 +46,5 @@ The model was trained on the Human Segmentation Dataset with the following setup
 ## IoU:
 
 The Intersection over Union (IoU) for the human region segmentation was calculated and found to be 0.75, indicating that the model successfully identified human regions.
+<img width="1039" height="392" alt="image" src="https://github.com/user-attachments/assets/36a8c9d0-b471-41b0-8c48-87f3c379ee46" />
+
