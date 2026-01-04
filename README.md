@@ -30,15 +30,15 @@ The model was trained on the Human Segmentation Dataset with the following setup
 
 ## Evaluation Metrics
 
-1. Accuracy: Measures the overall percentage of correctly classified pixels.
-2. IoU (Intersection over Union): Measures the overlap between the predicted and ground truth masks, providing a better evaluation metric for segmentation.
+- Accuracy: Measures the overall percentage of correctly classified pixels.
+- IoU (Intersection over Union): Measures the overlap between the predicted and ground truth masks, providing a better evaluation metric for segmentation.
 
 ## Results
 
-### Training Accuracy: 73%
-### Validation Accuracy: 75%
-### Training Loss: 0.68
-### Validation Loss: 0.68
+- Training Accuracy: 73%
+- Validation Accuracy: 75%
+- Training Loss: 0.68
+- Validation Loss: 0.68
 
 ## IoU:
 
