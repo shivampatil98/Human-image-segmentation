@@ -35,11 +35,10 @@ The model was trained on the Human Segmentation Dataset with the following setup
 
 ## Results
 
-Training Results
-Training Accuracy: 73%
-Validation Accuracy: 75%
-Training Loss: 0.68
-Validation Loss: 0.68
+####Training Accuracy: 73%
+####Validation Accuracy: 75%
+####Training Loss: 0.68
+####Validation Loss: 0.68
 
 ## IoU:
 
