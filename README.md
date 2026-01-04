@@ -21,12 +21,12 @@ The architecture consists of the following parts:
 
 The model was trained on the Human Segmentation Dataset with the following setup:
 
-Image Size: 512x512
-Batch Size: 16
-Epochs: 50
-Optimizer: Adam
-Loss Function: Binary Cross-Entropy
-Metrics: Accuracy, Intersection over Union (IoU)
+1. Image Size: 512x512
+2. Batch Size: 16
+3. Epochs: 50
+4. Optimizer: Adam
+5. Loss Function: Binary Cross-Entropy
+6. Metrics: Accuracy, Intersection over Union (IoU)
 
 ## Evaluation Metrics
 
